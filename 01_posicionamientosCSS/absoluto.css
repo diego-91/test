@@ -19,7 +19,7 @@ body{
 
 #absolute1{
 	position:absolute;
-	top:50px;
+	top:20px;
 	left:50px;
 	height:100px;
 	width:400px;
@@ -45,5 +45,5 @@ body{
 	width:94%;
 	border:1px solid #BCB43A;
 	margin-bottom:20px;
-	background-color: #E5DB3F;
+	background-color: pink;
 }
